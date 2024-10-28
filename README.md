@@ -43,3 +43,6 @@ Update the index.js to include the API key where required.
 User enters a keyword in the search bar.
 JavaScript sends a request to the image API.
 The results are displayed in a responsive grid layout on the page.
+
+# video 
+https://drive.google.com/file/d/1K7dqh3CGoq81-GtdRXuUJnGhV3A1r-dX/view?usp=drivesdk
